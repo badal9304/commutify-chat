@@ -9,15 +9,9 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git"
     
   },
+
   "author": "Badal Ranjan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/badal9304/commutify-chat/issues"
-  },
-  "homepage": "https://github.com/badal9304/commutify-chat#readme"
+  "license": "ISC"
 }

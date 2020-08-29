@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Real time web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+    
+  },
+  "author": "Badal Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badal9304/commutify-chat/issues"
+  },
+  "homepage": "https://github.com/badal9304/commutify-chat#readme"
+}
